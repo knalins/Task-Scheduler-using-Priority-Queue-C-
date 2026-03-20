@@ -1,4 +1,4 @@
-/* Author           : Arpit Singh
+/* Author           : Nalin
    Problem Solved   : Task Schedular
    Data Structure   : Priority Queue
  */

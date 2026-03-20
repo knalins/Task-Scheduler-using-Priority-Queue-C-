@@ -121,4 +121,4 @@ Future updates to this project could include:
 - [ ] STL Benchmarking: Adding an option to use std::priority_queue to compare performance.
 
 ## 👨‍💻 Author
-**Arpit Singh** — *Built as a learning project to understand Priority Queues and Heap Data Structures in C++.*
+**Kumar Nalin Singh** — *Built as a learning project to understand Priority Queues and Heap Data Structures in C++.*
